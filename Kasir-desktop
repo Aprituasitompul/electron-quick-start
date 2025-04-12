@@ -1,0 +1,4 @@
+kasir-desktop/
+├── index.html         ← File aplikasi kasir (yang sudah lengkap tadi)
+├── main.js            ← Script utama Electron
+└── package.json       ← Konfigurasi proyek
